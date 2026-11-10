@@ -3,4 +3,6 @@ project(Prog_3_Tarea_6)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Prog_3_Tarea_6 main.cpp)
+add_executable(Prog_3_Tarea_6
+        BST.h
+        Red-BlackTree.h)
